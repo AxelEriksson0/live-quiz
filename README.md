@@ -1,5 +1,6 @@
 # Live Quiz
-Built as a hackday project at </salt>. Start server and client and anyone can join in the quiz. Currently hosted at https://live-quiz.netlify.com/
+Built as a hackday project at </salt>. Using sockets to connect multiple players. Server built in NodeJS and frontend React.
+Best viewed on desktop!
 
 Update 2019-11-04:
 - Used React Context and React Hooks to do state management
